@@ -1,2 +1,6 @@
 # ArduinoDuckyScript
-Adapted off the Plasmino Duckino code
+Hello World
+
+
+
+Hi
